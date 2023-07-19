@@ -1,0 +1,234 @@
+Array[2023-07-19 13:50:24] - Pizzaria Pomezia 
+URL: http://localhost/pizzariaP/wordpress
+BLOG ID: 1 - ORDER ID: 1
+
+====================================================================================
+
+ERRO CRÍTICO:
+10003 | EMAIL TO SHOP FAILED: Could not instantiate mail function. | Array<br />
+(<br />
+    [type] => 2<br />
+    [message] => mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()<br />
+    [file] => C:\wamp64\www\PizzariaP\wordpress\wp-includes\PHPMailer\PHPMailer.php<br />
+    [line] => 877<br />
+)<br />
+ | Recipients: teste@teste.com.br | Subject: [Pizzaria Pomezia] - Wandebas Your order 19 de julho de 2023 13:50 | Headers: Array<br />
+(<br />
+    [0] =&gt; Content-Type: text/html; charset=UTF-8<br />
+    [1] =&gt; From: Pizzaria Pomezia &lt;teste@teste.com.br&gt;<br />
+    [2] =&gt; Reply-To: Wandebas@gmail.com.br<br />
+    [3] =&gt; Cc: Wandebas@gmail.com.br<br />
+    [4] =&gt; X-WPPIZZA-Version: 3.17.4<br />
+)<br />
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM cl_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+LAST PHP ERROR (*might* be related): mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() IN FILE: "C:\wamp64\www\PizzariaP\wordpress\wp-includes\PHPMailer\PHPMailer.php" ON LINE: "877"
+--------------------------------------------------------------------------
+Array[2023-07-19 13:52:41] - Pizzaria Pomezia 
+URL: http://localhost/pizzariaP/wordpress
+BLOG ID: 1 - ORDER ID: 2
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20002
+    [error] => missing shop "To"  address
+    [details] => missing shop "To"  address in WPPizza -> Order Settings -> Emails
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM cl_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-19 13:53:52] - Pizzaria Pomezia 
+URL: http://localhost/pizzariaP/wordpress
+BLOG ID: 1 - ORDER ID: 3
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20001
+    [error] => missing "From" address
+    [details] => missing "From" address in WPPizza -> Order Settings -> Emails 
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM cl_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-19 13:54:53] - Pizzaria Pomezia 
+URL: http://localhost/pizzariaP/wordpress
+BLOG ID: 1 - ORDER ID: 4
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20001
+    [error] => missing "From" address
+    [details] => missing "From" address in WPPizza -> Order Settings -> Emails 
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM cl_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-19 13:55:37] - Pizzaria Pomezia 
+URL: http://localhost/pizzariaP/wordpress
+BLOG ID: 1 - ORDER ID: 5
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20001
+    [error] => missing "From" address
+    [details] => missing "From" address in WPPizza -> Order Settings -> Emails 
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM cl_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-19 13:56:09] - Pizzaria Pomezia 
+URL: http://localhost/pizzariaP/wordpress
+BLOG ID: 1 - ORDER ID: 6
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20001
+    [error] => missing "From" address
+    [details] => missing "From" address in WPPizza -> Order Settings -> Emails 
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM cl_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-19 13:56:22] - Pizzaria Pomezia 
+URL: http://localhost/pizzariaP/wordpress
+BLOG ID: 1 - ORDER ID: 7
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20001
+    [error] => missing "From" address
+    [details] => missing "From" address in WPPizza -> Order Settings -> Emails 
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM cl_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-19 13:57:06] - Pizzaria Pomezia 
+URL: http://localhost/pizzariaP/wordpress
+BLOG ID: 1 - ORDER ID: 8
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20001
+    [error] => missing "From" address
+    [details] => missing "From" address in WPPizza -> Order Settings -> Emails 
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM cl_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-19 13:58:37] - Pizzaria Pomezia 
+URL: http://localhost/pizzariaP/wordpress
+BLOG ID: 1 - ORDER ID: 9
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20001
+    [error] => missing "From" address
+    [details] => missing "From" address in WPPizza -> Order Settings -> Emails 
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM cl_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-19 14:00:10] - Pizzaria Pomezia 
+URL: http://localhost/pizzariaP/wordpress
+BLOG ID: 1 - ORDER ID: 10
+
+====================================================================================
+
+ERRO CRÍTICO:
+10003 | EMAIL TO SHOP FAILED: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server | Recipients: pizzariapomezia@pizzaria.com | Subject: [Pizzaria Pomezia] - Wandebas Your order 19 de julho de 2023 14:00 | Headers: Array<br />
+(<br />
+    [0] =&gt; Content-Type: text/html; charset=UTF-8<br />
+    [1] =&gt; From: Pizzaria Pomezia &lt;pizzariapomezia@pizzaria.com&gt;<br />
+    [2] =&gt; Reply-To: Wandebas@gmail.com.br<br />
+    [3] =&gt; Cc: Wandebas@gmail.com.br<br />
+    [4] =&gt; X-WPPIZZA-Version: 3.17.4<br />
+)<br />
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM cl_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-19 14:24:09] - Pizzaria Pomezia 
+URL: http://localhost/pizzariaP/wordpress
+BLOG ID: 1 - ORDER ID: 11
+
+====================================================================================
+
+ERRO CRÍTICO:
+10003 | EMAIL TO SHOP FAILED: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server | Recipients: pizzariapomezia@pizzaria.com | Subject: [Pizzaria Pomezia] - Wandebas Your order 19 de julho de 2023 14:24 | Headers: Array<br />
+(<br />
+    [0] =&gt; Content-Type: text/html; charset=UTF-8<br />
+    [1] =&gt; From: Pizzaria Pomezia &lt;pizzariapomezia@pizzaria.com&gt;<br />
+    [2] =&gt; Reply-To: Wandebas@gmail.com.br<br />
+    [3] =&gt; Cc: Wandebas@gmail.com.br<br />
+    [4] =&gt; X-WPPIZZA-Version: 3.17.4<br />
+)<br />
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM cl_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------

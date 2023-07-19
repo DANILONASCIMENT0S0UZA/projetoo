@@ -1,0 +1,126 @@
+[2023-07-19 16:50:27]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Could not instantiate mail function.
+        )
+
+)
+
+[2023-07-19 16:50:27]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-19 16:52:41]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-19 16:53:52]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-19 16:54:53]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-19 16:55:37]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-19 16:56:09]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-19 16:56:22]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-19 16:57:07]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-19 16:58:37]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-19 17:00:11]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => SMTP Error: Could not connect to SMTP host. Failed to connect to server
+        )
+
+)
+
+[2023-07-19 17:00:11]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-19 17:24:09]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => SMTP Error: Could not connect to SMTP host. Failed to connect to server
+        )
+
+)
+
+[2023-07-19 17:24:09]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
